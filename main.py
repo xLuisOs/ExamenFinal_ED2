@@ -2,6 +2,7 @@ from fnv1 import FNV1
 from huffman import Huffman
 from rsa_manager import RSAManager
 
+#Luis 
 class Colors:
     HEADER = '\033[95m'
     BLUE = '\033[94m'
